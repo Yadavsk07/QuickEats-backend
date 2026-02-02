@@ -165,7 +165,3 @@ RAZORPAY_KEY_ID | Razorpay key ID | rzp_test_... |
 ## License
 
 This project is licensed under the ISC License - see the LICENSE file for details.
-
-## Support
-
-For support, email support@foodorderapp.com or open an issue in the GitHub repository.
